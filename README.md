@@ -15,6 +15,7 @@ where,
   
   <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;P" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;P" title="P" /></a>   : Transition matrix of the graph. This value depends on the walk
         type of the graph exploration.
+        
         !! Current implementation includes only a "PageRank" walk type.
         !! Future Implementation Plan: "Random Walk"
 
