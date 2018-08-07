@@ -11,7 +11,7 @@ where,
 
   <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;I" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;I" title="I" /></a>   : Identity matrix,
   
-  <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;\Phi" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\Phi" title="\Phi" /></a> : Matrix with the Perron vector of P in the diagonal and zeros elsewhere, and
+  <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;\Phi" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\Phi" title="\Phi" /></a> : Matrix with the Perron vector of <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;P" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;P" title="P" /></a> in the diagonal and zeros elsewhere, and
   
   <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;P" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;P" title="P" /></a>   : Transition matrix of the graph. This value depends on the walk
         type of the graph exploration.
