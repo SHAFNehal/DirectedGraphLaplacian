@@ -1,4 +1,4 @@
-# DirectedGraphLaplacian
+# Directed Graph Laplacian
 
 This function returns the directed Laplacian matrix of any graph (DAG).
 This is a direct implementation of the paper referred below.
