@@ -5,7 +5,7 @@ This is a direct implementation of the paper referred below.
 
 The Graph Laplacian is calculated using the following formula
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=L&space;=&space;I&space;-&space;(\Phi^{1/2}&space;P&space;\Phi^{-1/2}&space;&plus;&space;\Phi^{-1/2}&space;P^T&space;\Phi^{1/2}&space;)&space;/&space;2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L&space;=&space;I&space;-&space;(\Phi^{1/2}&space;P&space;\Phi^{-1/2}&space;&plus;&space;\Phi^{-1/2}&space;P^T&space;\Phi^{1/2}&space;)&space;/&space;2" title="L = I - (\Phi^{1/2} P \Phi^{-1/2} + \Phi^{-1/2} P^T \Phi^{1/2} ) / 2" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{200}&space;L&space;=&space;I&space;-&space;(\Phi^{1/2}&space;P&space;\Phi^{-1/2}&space;&plus;&space;\Phi^{-1/2}&space;P^T&space;\Phi^{1/2}&space;)&space;/&space;2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{200}&space;L&space;=&space;I&space;-&space;(\Phi^{1/2}&space;P&space;\Phi^{-1/2}&space;&plus;&space;\Phi^{-1/2}&space;P^T&space;\Phi^{1/2}&space;)&space;/&space;2" title="L = I - (\Phi^{1/2} P \Phi^{-1/2} + \Phi^{-1/2} P^T \Phi^{1/2} ) / 2" /></a>
 
 where,
   I   : Identity matrix,
